@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#FFDDFF">
+    <title>Pasteleria</title>
+    <link rel="StyleSheet" href="css/main.css" type="text/css">
+</head>
+<body>
+    <header>
+        <img src="img/pasteleria.svg" alt="Logotipo" class="Logo">
+        <h1>Eli Banana</h1>
+        
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="cliente.html">Cliente</a>
+            <a href="pedidos.html">Pedidos</a>
+        </nav>
+        
+    </header>
+
+    <article>
+        <table>
+            <caption>Sabores disponibles</caption>
+            <tr>
+                <th>Sabor</th>
+                <th>Restantes</th>
+            </tr>
+            <tr>
+                <td>sabor 1</td>
+                <td><script>document.write(Math.floor(Math.random()*20))</script></td>
+            </tr>
+            <tr>
+                <td>sabor 2</td>
+                <td><script>document.write(Math.floor(Math.random()*20))</script></td>
+            </tr>
+            <tr>
+                <td>sabor 3</td>
+                <td><script>document.write(Math.floor(Math.random()*20))</script></td>
+            </tr>
+            <tr>
+                <td>sabor 4</td>
+                <td><script>document.write(Math.floor(Math.random()*20))</script></td>
+            </tr>
+        </table>
+     
+
+        <table>
+            <caption>Decorados disponibles</caption>
+            <tr>
+                <th>Decorado</th>
+                <th>Restantes</th>
+            </tr>
+            <tr>
+                <td>Chocolate</td>
+                <td><script>document.write(Math.floor(Math.random()*20))</script></td>
+            </tr>
+            <tr>
+                <td>Crema</td>
+                <td><script>document.write(Math.floor(Math.random()*20))</script></td>
+            </tr>
+            <tr>
+                <td>Fresas</td>
+                <td><script>document.write(Math.floor(Math.random()*20))</script></td>
+            </tr>
+        </table>
+    </article>
+    
+    
+    <article>
+        <table>
+            <caption>Pedidos por realizar</caption>
+            <tr>
+                <th>Cliente</th>
+                <th>Telefono</th>
+                <th>E-Mail</th>
+                <th>Sabor</th>
+                <th>Decorados</th>
+                <th>Indicaciones del Cliente</th>
+            </tr>
+            <tr>
+                <td>Anoncio</td>
+                <td>55<script>document.write(Math.floor(Math.random()*90000001)+9999999)</Script></td>
+                <td>Anoncio@correo.com</td>
+                <td>1</td>
+                <td>Chocolate</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Jaimito</td>
+                <td>55<script>document.write(Math.floor(Math.random()*90000001)+9999999)</Script></td>
+                <td>tangamandapio@correo.com</td>
+                <td>3</td>
+                <td>crema + fresas</td>
+                <td>Colocar las fresas en crepusculos arrebolados de crema</td>
+            </tr>
+            <tr>
+                <td>Persona</td>
+                <td>55<script>document.write(Math.floor(Math.random()*90000001)+9999999)</Script></td>
+                <td>Generica@correo.com</td>
+                <td>2 + 1</td>
+                <td>Crema</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Lorem</td>
+                <td>55<script>document.write(Math.floor(Math.random()*90000001)+9999999)</Script></td>
+                <td>Ipsum@correo.com</td>
+                <td>4</td>
+                <td>texto (Lorem ipsum dolor sit)</td>
+                <td>Realmente poner ese texto, no es que se me pasara algún texto de ejemplo</td>
+            </tr>
+            <tr>
+                <td>Viajero</td>
+                <td>55<script>document.write(Math.floor(Math.random()*90000001)+9999999)</Script></td>
+                <td>Espacial@innovaccion.com</td>
+                <td>2</td>
+                <td>fresas</td>
+                <td></td>
+            </tr>
+
+        </table>
+
+    </article>
+    
+    <br><br>
+    <footer>
+        <p>Encuentranos en:</p>
+        <p>Dirección: Unidad habitacional Rinconada de acolapa, plaza de la piramide <br>
+            Telefono: 55 12345678 <br>
+            Horarios de atención: 9:00 - 18:00
+        </p>
+    </footer>
+</body>
+</html>
+<!--tener la información de la cantidad de sabores que le quedan para hacer los pasteles.
+    tener la información de la cantidad de adornos que le quedan para hacer los pasteles.
+    una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.-->

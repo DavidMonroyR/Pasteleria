@@ -1,0 +1,75 @@
+body{
+    background-color: #fdf;
+}
+
+
+header, footer{
+    text-align:center;
+    background-color: #fcf;
+    text-align: center;
+    overflow:hidden
+}
+
+tr, th, caption{
+    background-color: #ebe;
+    text-align: center;
+}
+nav{
+    float:inline-end
+}
+table{
+    min-width: 240px;
+    margin:2em;
+
+}
+
+td{
+    padding: 5px
+}
+
+.Logo{
+    width:64px;
+    float:left;
+    margin:1em
+}
+
+caption{
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.muestra{
+    height: 120px;
+    
+}
+
+h1{
+    color: #b3c ;
+    font-weight: bolder;
+    font-family: Helvetica;
+    text-shadow: -0.1em 0.1em 0.2em #999;
+    font-size: 3em;
+    float:left ;
+}
+
+article{
+    max-width: 1200px;
+    margin:auto;
+    text-align: center;
+
+}
+
+div{
+    padding: 2em;
+    text-align: center;  
+    display: inline-block;
+}
+ ul{
+    list-style: none;
+    display:flex;  
+ }
+
+ li{
+     margin-left: .6em;
+     margin-right: .6em;
+ }

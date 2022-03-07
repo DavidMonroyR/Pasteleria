@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240"
+   height="240"
+   viewBox="0 0 63.499999 63.500002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="pasteleria.svg"
+   inkscape:export-filename="/home/dave/Imágenes/launchx/pasteleria.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8632671"
+     inkscape:cx="183.54856"
+     inkscape:cy="181.4018"
+     inkscape:window-width="1516"
+     inkscape:window-height="868"
+     inkscape:window-x="351"
+     inkscape:window-y="233"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1122"
+     units="px" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter6831"
+       x="-0.00053850299"
+       y="-0.060957298"
+       width="1.0010771"
+       height="1.1219146">
+      <feGaussianBlur
+         stdDeviation="0.01 0.5"
+         result="blur"
+         id="feGaussianBlur6829" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter6835"
+       x="-0.00074992294"
+       y="-0.045758322"
+       width="1.0014998"
+       height="1.0915166">
+      <feGaussianBlur
+         stdDeviation="0.01 0.5"
+         result="blur"
+         id="feGaussianBlur6833" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter1464"
+       x="-0.042589902"
+       y="-0.042905971"
+       width="1.0851798"
+       height="1.0858119">
+      <feGaussianBlur
+         stdDeviation="3 3"
+         result="fbSourceGraphic"
+         id="feGaussianBlur1462" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1755" />
+      <feGaussianBlur
+         id="feGaussianBlur1757"
+         stdDeviation="3 3"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1777" />
+      <feGaussianBlur
+         id="feGaussianBlur1779"
+         stdDeviation="3 3"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1865"
+       transform="translate(-45.164809,-66.210191)">
+      <g
+         id="g1122"
+         transform="matrix(0.1199899,0,0,0.12087975,103.01838,157.6976)">
+        <path
+           id="path2664"
+           style="fill:#aaffcc;fill-opacity:1;stroke-width:0.789111"
+           d="m -256.73716,-738.56563 c -17.81455,1.95342 -38.955,6.36073 -48.78468,10.17886 -14.84447,5.76568 -18.33635,8.65638 -24.23373,20.03463 -5.81755,11.22415 -6.80492,17.37477 -6.35086,39.48611 0.53245,25.89542 0.43458,26.27114 -8.56794,33.18503 -14.62036,11.22773 -19.53611,27.49297 -18.37068,60.80162 l 1.00031,28.63804 -10.51429,6.83785 c -6.23863,4.05741 -13.8897,13.36823 -18.80007,22.87939 -7.16229,13.87189 -8.27976,19.542 -8.27976,41.96729 v 25.92599 l 24.33874,0.17179 -0.25231,-25.04256 c -0.39238,-39.01417 7.80296,-47.72853 54.01253,-60.29386 62.56838,-17.01367 181.41317,-14.87499 227.763966,4.09692 25.34025,10.37186 42.97106,35.13573 45.65035,64.13107 v 0.006 c 0.75887,8.20925 0.48736,14.97983 -0.55834,16.4915 l 11.41408,-0.0101 1.37005,-16.23165 c 4.30493,-50.9372 -22.64885,-80.09267 -87.466716,-94.60998 -31.39852,-7.03222 -156.11017,-6.92734 -190.258,0.1617 -13.13228,2.72632 -24.56181,4.28278 -25.40375,3.45642 -0.84231,-0.82645 -1.61478,-13.54937 -1.71716,-28.27442 -0.17651,-25.67601 0.15734,-27.06484 8.13854,-33.80835 25.69203,-21.70709 120.57577,-31.27449 187.31786,-18.89196 38.80225,7.19909 57.262526,24.00064 65.355976,59.50919 0,0 1.86635,-35.0485 -19.90661,-58.40221 -9.668146,-10.37018 -29.738326,-16.06244 -46.890046,-19.41041 -27.13367,-5.29619 -118.53148,-4.66669 -146.74826,1.0095 -11.98843,2.41146 -22.48835,3.70909 -23.33372,2.87947 -2.98669,-2.93056 -1.48731,-41.70925 1.89347,-48.98995 7.37633,-15.88592 39.51249,-23.68636 97.43419,-23.6641 77.86067,0.0337 100.5216,10.4425 111.34742,51.12496 l 3.62244,13.61799 2.18753,-12.22153 c 3.297426,-18.44469 -2.35734,-34.47256 -16.28907,-46.17407 -14.39644,-12.09182 -26.11251,-15.92107 -62.32747,-20.36331 -30.95998,-3.46258 -45.51281,-4.24234 -77.79322,-0.20213 z"
+           sodipodi:nodetypes="cscsccscsccssscccccssscsscsssssccccsccc"
+           inkscape:export-filename="/home/dave/Imágenes/launchx/logoPastel.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           id="path1869-3"
+           style="fill:#dd55ff;stroke-width:2.98248"
+           d="m -410.33698,-453.55927 c -19.15016,3.69066 -47.57062,10.71569 -54.37699,15.02014 -22.03188,13.93306 14.9028,32.79673 76.77005,39.20921 12.93726,1.34099 30.97378,2.47692 40.08157,2.5216 14.88945,0.0787 13.2194,-0.5738 -16.55961,-6.41079 -52.08285,-10.20871 -79.72574,-20.52131 -72.91225,-27.20711 2.96335,-2.90767 53.05179,-8.7889 101.86209,-13.05226 65.84027,-5.75098 197.04239,-4.49198 272.13244,2.76394 39.75018,3.84103 64.73259,9.55899 64.73259,11.73677 0,3.4955 -17.41268,12.3703 -41.58692,21.18864 -26.51447,9.67183 -23.97725,10.5376 12.54889,4.28728 39.75416,-6.80259 67.16739,-19.51564 63.31546,-29.36513 -2.34745,-6.0033 1.03448,-6.15096 -47.31445,-18.21685 -48.34887,-12.06577 -143.55667,-14.34675 -204.91068,-14.55617 -61.35373,-0.21 -100.0709,3.25172 -133.56551,5.34717 -33.4946,2.09547 -41.06634,3.04299 -60.21668,6.73356 z m 191.01673,33.93512 c -42.13267,0.0899 -83.37976,1.92198 -83.37976,5.41264 0,1.15851 5.75818,3.62048 12.79603,5.47026 28.84373,7.581 54.25707,33.17177 58.1347,58.54549 2.40445,15.73422 -2.92038,39.26548 -11.81394,52.21544 -9.88677,14.39614 -28.32835,25.52217 -48.57899,29.31322 -18.10188,3.38871 -34.62445,14.0339 -34.62445,22.30784 0,3.13192 21.44044,3.88348 111.40047,3.88348 93.89627,1.1e-4 111.40045,-0.65691 111.40045,-4.17172 0,-7.53991 -17.10893,-18.65198 -32.11352,-20.85986 -35.66995,-5.24881 -59.66507,-29.87603 -63.36253,-65.0313 -2.14053,-20.34949 3.06611,-34.87669 18.34718,-51.21144 12.30216,-13.15027 37.1016,-27.04159 48.37312,-27.09738 4.69356,-0.0225 5.12096,-0.77032 2.11701,-3.72178 -3.54415,-3.4835 -46.56319,-5.14328 -88.69577,-5.05489 z"
+           sodipodi:nodetypes="zsscsssssssszzzzsssssssssssssss"
+           inkscape:export-filename="/home/dave/Imágenes/launchx/logoPastel.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+    </g>
+    <g
+       id="g1200"
+       transform="translate(-112.55732,-28.848726)" />
+  </g>
+</svg>
